@@ -16,8 +16,8 @@
 
 ## Informações gerais
 
-| Disciplina                                            | Professor                     |
-| ----------------------------------------------------- | ----------------------------- |
-| Programação Orientada a Serviços                      | Leonardo Ataide Minora        |
-| Projeto de Desenvolvimento de Sistemas para Internet( | Francisco Sales de Lima Filho |
-| Projeto de Interface do Usuário                       | Danielle Gomes de Freitas     |
+| Disciplinas                                          | Professor                     |
+| ---------------------------------------------------- | ----------------------------- |
+| Programação Orientada a Serviços                     | Leonardo Ataide Minora        |
+| Projeto de Desenvolvimento de Sistemas para Internet | Francisco Sales de Lima Filho |
+| Projeto de Interface do Usuário                      | Danielle Gomes de Freitas     |
