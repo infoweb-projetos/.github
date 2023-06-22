@@ -5,13 +5,13 @@
 | Projeto           | Membros                                                          | Repositório |
 | ----------------- | ---------------------------------------------------------------- | ----------- |
 | Advocacia Lumiere | Elizia Regina, Pedro Henrique, Raquel dos Santos, Vinícius Cesar | ---         |
-| Spry              | Sergio Dantas, Marcio, Marcilio, Lais, Helio                     | ---         |
+| Spry              | Sergio Dantas, Marcio, Marcilio, Laiz, Helio                     | ---         |
 | Lyrics Lab        | Ramon, Matheus Henrique, Jully, Rafael                           | ---         |
 | Curam             | João Pedro, Leonardo, Luisa, Maria Clara                         | ---         |
 | Course.Dev        | Jainne, João Carlos, Letícia, Winnie                             | ---         |
-| Virtual Cooking   | Erick Santos, Akira, Luiz Gustavo                                | ---         |
-| Nootropic         | Mateus Oliveira                                                  | ---         |
-| Artes             | Pablo Marreiro, Lindemberg                                       | ---         |
+| Virtual Cooking   | Erick Santos, Akira, Luis Gustavo, João                          | ---         |
+| Nootropic         | Mateus Oliveira, José Jeferson, Júlia                            | ---         |
+| BlackWhiteCorner  | Pablo Marreiro, Lindemberg, Sabrina                              | ---         |
 
 
 ## Informações gerais
