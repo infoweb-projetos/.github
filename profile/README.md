@@ -6,7 +6,7 @@
 | ----------------- | ---------------------------------------------------------------- | ----------- |
 | Advocacia Lumiere | Elizia Regina, Pedro Henrique, Raquel dos Santos, Vinícius Cesar | ---         |
 | Spry              | Sergio Dantas, Marcio, Marcilio, Laiz, Helio                     | ---         |
-| Lyrics Lab        | Ramon, Matheus Henrique, Jully, Rafael                           | lyrics-backend, lyrics-frontend         |
+| Lyrics Lab        | Ramon, Matheus Henrique, Jully, Rafael                           | lyrics-backend, lyrics-frontend  |
 | Curam             | João Pedro, Leonardo, Luisa, Maria Clara                         | ---         |
 | Course.Dev        | Jainne, João Carlos, Letícia, Winnie                             | ---         |
 | Virtual Cooking   | Erick Santos, Akira, Luis Gustavo, João                          | ---         |
