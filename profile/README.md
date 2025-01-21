@@ -1,5 +1,22 @@
 # Projetos de Desenvolvimento de Sistemas para Internet do 4o ano de Infoweb
 
+## Turma 2024
+
+| Projeto           | Membros                                                          | Repositório |
+| ----------------- | ---------------------------------------------------------------- | ----------- |
+| --- | --- | --- |
+
+
+
+### Informações gerais
+
+| Disciplinas                                          | Professor                     |
+| ---------------------------------------------------- | ----------------------------- |
+| Programação Orientada a Serviços                     | [Leonardo Ataide Minora](https://github.com/leonardo-minora/) |
+| Projeto de Desenvolvimento de Sistemas para Internet | [Francisco Sales de Lima Filho](https://github.com/salesfilho) |
+| Projeto de Interface do Usuário                      | Silvia Mattos                 |
+
+
 ## Turma 2023
 
 | Projeto           | Membros                                                          | Repositório |
@@ -14,10 +31,12 @@
 | BlackWhiteCorner  | Pablo Marreiro, Lindemberg, Sabrina                              | ---         |
 
 
-## Informações gerais
+### Informações gerais
 
 | Disciplinas                                          | Professor                     |
 | ---------------------------------------------------- | ----------------------------- |
-| Programação Orientada a Serviços                     | Leonardo Ataide Minora        |
-| Projeto de Desenvolvimento de Sistemas para Internet | Francisco Sales de Lima Filho |
-| Projeto de Interface do Usuário                      | Danielle Gomes de Freitas     |
+| Programação Orientada a Serviços                     | [Leonardo Ataide Minora](https://github.com/leonardo-minora/) |
+| Projeto de Desenvolvimento de Sistemas para Internet | [Francisco Sales de Lima Filho](https://github.com/salesfilho) |
+| Projeto de Interface do Usuário                      | [Danielle Gomes de Freitas](https://github.com/danigfreitas) |
+
+
